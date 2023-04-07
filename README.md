@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Lucas Tadaieski  <br/>
-Estudante de Engenharia de Software 👨🏻‍💼☕
+Estudante de Engenharia de Software 👨🏻‍🔧💻📚☕
 
 ![Lucas Tadaieski GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasTadaieski&show_icons=true&theme=tokyonight)
 
