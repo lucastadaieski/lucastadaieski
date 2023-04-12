@@ -1,4 +1,4 @@
-### Oi! Eu sou o Lucas Tadaieski 👨🏻‍🔧
+## Oi! Eu sou o Lucas Tadaieski 👨🏻‍🔧
 Sou estudante universitário de engenharia de software, construindo minha versão do mundo digital passo a passo.
 </div><br/>
 
