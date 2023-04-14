@@ -8,7 +8,7 @@ Sou estudante universitário de engenharia de software, construindo passo a pass
   <img align="center" alt="Lucas-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Lucas-Linux" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Lucas-Cisco" height="40" width="40"  src="https://s3-symbol-logo.tradingview.com/cisco--600.png">
+  <img align="center" alt="Lucas-Cisco" height="40" width="40"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cisco_academy_logo.svg/1200px-Cisco_academy_logo.svg.png">
           
 </div><br/>
 </div><br/>
