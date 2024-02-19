@@ -1,5 +1,7 @@
 # Lucas Tadaieski 
-Sou estudante universitário de engenharia de software, construindo passo a passo minha versão do mundo digital.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+Graduando em engenharia de software na Universidade de Mogi das Cruzes, atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor. Estou realizando os cursos de desenvolvimento na Alura e Curso em Vídeo, construindo passo a passo minha versão do mundo digital.
 </div><br/>
 
 ## • Tecnologias que estou aprendendo:
