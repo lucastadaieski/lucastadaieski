@@ -4,15 +4,26 @@ Graduando em engenharia de software na Universidade de Mogi das Cruzes, atualmen
 </div><br/>
 
 
-## • Tecnologias que estou aprendendo:
+## • Linguagens e Ferramentas
 
 <div style="display: inline_block">
-  <img align="center" alt="icon-python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="icon-java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="icon-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="icon-maven" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />     
-  <img align="center" alt="icon-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />       
-  <img align="center" alt="icon-mySQL" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="icon-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />  
+  <img align="center" alt="icon-mySQL" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />        
+  <img align="center" alt="icon-postgreeSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
+  <img align="center" alt="icon-postgreeSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
           
+          
+          
+          
+  
+          
+  
+            
+          
+          
+             
 </div><br/>
 </div><br/>
 
