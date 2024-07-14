@@ -1,10 +1,14 @@
 # Lucas Tadaieski 
 
-Graduando em engenharia de software na Universidade de Mogi das Cruzes, atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor. Estou realizando os cursos de desenvolvimento na Alura e Curso em Vídeo, construindo passo a passo minha versão do mundo digital.
+- 💻 Software Developer
+- 👨🏻‍🔧 I'm available for Freelance Work
+- 🎓 Software Engineer Student @ [UMC](https://www.umc.br/)
+- 🌐 Focused about web development
+- ♟ I like a good challenge
 </div><br/>
 
 
-## • Linguagens e Ferramentas
+## • Language and Tools
 
 <div style="display: inline_block">
   <img align="center" alt="icon-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
