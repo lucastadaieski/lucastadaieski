@@ -1,5 +1,8 @@
 # Lucas Tadaieski 
+<a href="https://www.linkedin.com/in/lucastadaieski" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br><br>
 
+## • About me
 - 💻 Software Developer
   
 - 👨🏻‍🔧 I'm available for Freelance Work
@@ -9,10 +12,10 @@
 - 🌐 Focused about web development
   
 - ♟ I like a good challenge
-</div><br/>
+<br><br>
 
 
-## • Language and Tools
+## • Tech Stack
 
 <div style="display: inline_block">
   <img align="center" alt="icon-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
