@@ -1,15 +1,15 @@
 # Lucas Tadaieski 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A2342?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucastadaieski/)](https://www.linkedin.com/in/lucastadaieski/)
-[![Personal Badge](https://img.shields.io/badge/-Website-0A2342?style=flat-square&logo=GitHub&logoColor=white&link=https://lucastadaieski.github.io/portfolio/)](https://lucastadaieski.github.io/portfolio/)
+[![Personal Badge](https://img.shields.io/badge/-Website-0A2342?style=flat-square&logo=esri&logoColor=white&link=https://lucastadaieski.github.io/portfolio/)](https://lucastadaieski.github.io/portfolio/)
 [![Gmail Badge](https://img.shields.io/badge/-dev.lucastadaieski@gmail.com-0A2342?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.lucastadaieski@gmail.com)](mailto:dev.lucastadaieski@gmail.com)
-<br>
+<br><br>
 
 ## About me
 - 💻 Software Developer
-  
+
 - 👨🏻‍🔧 I'm available for Open Source project
   
-- 🎓 Software Engineer Student @ [UMC](https://www.umc.br/)
+- 🎓 Software Engineer Student @[UMC](https://www.umc.br/)
   
 - 📚 Learning about web development
   
