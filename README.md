@@ -1,9 +1,13 @@
 # Lucas Tadaieski 
 
 - 💻 Software Developer
+  
 - 👨🏻‍🔧 I'm available for Freelance Work
+  
 - 🎓 Software Engineer Student @ [UMC](https://www.umc.br/)
+  
 - 🌐 Focused about web development
+  
 - ♟ I like a good challenge
 </div><br/>
 
