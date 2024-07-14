@@ -1,5 +1,7 @@
 # Lucas Tadaieski 
-<a href="https://www.linkedin.com/in/lucastadaieski" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucastadaieski/)](https://www.linkedin.com/in/lucastadaieski/)
+[![Personal Badge](https://img.shields.io/badge/-Website-%230077B5?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://lucastadaieski.github.io/portfolio/)
+[![Gmail Badge](https://img.shields.io/badge/-dev.lucastadaieski@gmail.com-%230077B5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.lucastadaieski@gmail.com)](mailto:dev.lucastadaieski@gmail.com)
 <br><br>
 
 ## • About me
