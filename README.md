@@ -13,7 +13,7 @@
   
 - 📚 Learning about web development
   
-- ♟ I like a good challenge
+- ♟ I enjoy taking on challenges
 <br><br>
 
 
