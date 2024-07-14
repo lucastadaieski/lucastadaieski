@@ -11,7 +11,7 @@
   
 - 🎓 Software Engineer Student @[UMC](https://www.umc.br/)
   
-- 📚 Learning about web development
+- 📚 Currently learning about web development
   
 - ♟ I like a good challenge
 <br><br>
