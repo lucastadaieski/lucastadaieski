@@ -7,7 +7,7 @@
 ## About me
 - 💻 Software Developer
   
-- 👨🏻‍🔧 I'm available for Open Source Project
+- 👨🏻‍🔧 I'm available for Open Source project
   
 - 🎓 Software Engineer Student @ [UMC](https://www.umc.br/)
   
