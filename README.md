@@ -7,7 +7,7 @@
 ## About me
 - 💻 Software Developer
 
-- 🧰 Stacks: Java, Spring Boot, SQL
+- 🧰 Stack: Java, Spring Boot, SQL
 
 - 🗂 I'm available for Open Source project
   
