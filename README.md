@@ -5,7 +5,7 @@
 <br><br>
 
 ## About me
-- 💻 Software Developer
+- 💻 Software Developer Back-end
 
 - 🧰 Stack: **Java, Spring Boot, SQL**
 
