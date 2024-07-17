@@ -7,7 +7,7 @@
 ## About me
 - 💻 Software Developer
 
-- 🧰 Stack: Java, Spring Boot, SQL
+- 🧰 Stack: **Java, Spring Boot, SQL**
 
 - 🗂 I'm available for Open Source project
   
@@ -19,7 +19,7 @@
 <br><br>
 
 
-## Tech Stack
+## Languages and Tools
 
 <div style="display: inline_block">
   <img align="center" alt="icon-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
