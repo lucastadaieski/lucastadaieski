@@ -7,7 +7,9 @@
 ## About me
 - 💻 Software Developer
 
-- 👨🏻‍🔧 I'm available for Open Source project
+- 🧰 Stacks: Java, Spring Boot, SQL
+
+- 🗂 I'm available for Open Source project
   
 - 🎓 Software Engineer Student @[UMC](https://www.umc.br/)
   
@@ -25,7 +27,7 @@
   <img align="center" alt="icon-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />  
   <img align="center" alt="icon-mySQL" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />        
   <img align="center" alt="icon-postgreeSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
-  <img align="center" alt="icon-postgreeSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt="icon-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div><br/>                 
 </div><br/>
 
