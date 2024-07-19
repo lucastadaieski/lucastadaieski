@@ -28,17 +28,16 @@
   <img align="center" alt="icon-mySQL" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />        
   <img align="center" alt="icon-postgreeSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
   <img align="center" alt="icon-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</div> <br/><br/>
+</div> <br><br>
 
 
 ## Github Overview
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=lucastadaieski&theme=codeSTACKr" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=lucastadaieski&rank_icon=github&hide=contribs&theme=codeSTACKr" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucastadaieski&layout=donut&langs_count=8&card_width=320&theme=codeSTACKr" />
 </a>  
 </div>
-          
