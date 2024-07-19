@@ -35,10 +35,10 @@
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=lucastadaieski&theme=noctis_minimus" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=lucastadaieski&theme=codeSTACKr" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucastadaieski&layout=donut&langs_count=8&card_width=320&theme=noctis_minimus" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucastadaieski&layout=donut&langs_count=8&card_width=320&theme=codeSTACKr" />
 </a>  
 </div>
           
