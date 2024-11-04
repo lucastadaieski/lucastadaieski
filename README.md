@@ -11,7 +11,7 @@
 
 - 🗂 I'm available for Open Source project
   
-- 🎓 Software Engineer Student @[UMC](https://www.umc.br/)
+- 🎓 software engineering student @[UMC](https://www.umc.br/)
   
 - 📚 Learning about web development
   
