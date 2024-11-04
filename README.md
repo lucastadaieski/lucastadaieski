@@ -5,11 +5,11 @@
 <br><br>
 
 ## About me
-- 💻 Software Developer Back-end
+- 💻 Software developer back-end
 
-- 🧰 Stack: **Java, Maven & Spring**
+- 🧰 Stack: **Java, Maven** & **Spring**
 
-- 🗂 I'm available for Open Source project
+- 🗂 I am available for open source projects
   
 - 🎓 Software engineering student @[UMC](https://www.umc.br/)
   
