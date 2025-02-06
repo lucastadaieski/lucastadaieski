@@ -7,7 +7,7 @@
 ## About me
 - 💻 Software developer back-end
 
-- 🧰 Stack: **Java, Maven** & **Spring**
+- 🧰 Stack: **Java, Spring** & **SQL**
 
 - 🗂 I am available for open source projects
   
