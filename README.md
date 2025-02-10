@@ -24,23 +24,58 @@
   <img 
     align="left" 
     alt="icon-java"  
-    width="30" 
+    width="36" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
     style="padding-right: 10px;"
   />
   <img 
     align="left" 
     alt="icon-mySQL" 
-    height="36" 
-    width="40"
+    width="36"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+    style="padding-right: 10px;"
   />
-  <img align="left" alt="icon-postgreeSQL" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"/>
-  <img align="left" alt="icon-JS" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img align="left" alt="icon-html" height="32" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="left" alt="icon-css" height="32" widht="36 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img align="left" alt="icon-spring" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
-  <img align="left" alt="icon-git" height="32" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>    
+  <img 
+    align="left"
+    alt="icon-postgreeSQL"
+    width="36" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"
+    style="padding-right: 10px;"
+  />
+  <img 
+    align="left" 
+    alt="icon-JS" 
+    width="36" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    style="padding-right: 10px;"
+  />
+  <img 
+    align="left" 
+    alt="icon-html"
+    width="36" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    style="padding-right: 10px;"
+  />
+  <img align="left" 
+    alt="icon-css" 
+    width="36"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    style="padding-right: 10px;"
+  />
+  <img 
+    align="left" 
+    alt="icon-spring" 
+    width="36"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+    style="padding-right: 10px;"
+  />
+  <img 
+    align="left" 
+    alt="icon-git" 
+    width="36" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    style="padding-right: 10px;"
+  />    
 </div> <br><br>
 
 
