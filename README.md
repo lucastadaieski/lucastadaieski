@@ -5,7 +5,7 @@
 <br><br>
 
 ## About me
-- 💻 Software developer full stack
+- 💻 Software developer
 
 - 🧰 Stack: **Java, Spring** & **SQL**
 
