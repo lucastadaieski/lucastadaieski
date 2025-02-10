@@ -24,7 +24,7 @@
   <img 
     align="left" 
     alt="icon-java"  
-    width="38" 
+    width="36" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
     style="padding-right: 10px;"
   />
