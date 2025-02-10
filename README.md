@@ -24,7 +24,7 @@
   <img 
     align="left" 
     alt="icon-java"  
-    width="36" 
+    width="38" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
     style="padding-right: 10px;"
   />
@@ -80,7 +80,7 @@
 
 
 ## Github Overview
-<div align="center">
+<div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=lucastadaieski&rank_icon=github&hide=contribs&theme=codeSTACKr" />
   </a>
