@@ -5,13 +5,13 @@
 <br><br>
 
 ## About me
-- 💻 Software Developer
+- 💻 Software Engineer 
 
 - 🧰 Stack: **Java, Spring** & **SQL**
 
 - 🗂 I am available for open source projects
   
-- 🎓 Software Engineering Undergraduate at @[UMC](https://www.umc.br/)
+- 🎓 Software engineering undergraduate at @[UMC](https://www.umc.br/)
   
 - 📚 Learning about web development
   
