@@ -1,7 +1,7 @@
 # Lucas Tadaieski 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A2342?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucastadaieski/)](https://www.linkedin.com/in/lucastadaieski/)
-[![Personal Badge](https://img.shields.io/badge/-Website-0A2342?style=flat-square&logo=esri&logoColor=white&link=https://lucastadaieski.github.io/portfolio/)](https://lucastadaieski.github.io/portfolio/)
-[![Gmail Badge](https://img.shields.io/badge/-dev.lucastadaieski@gmail.com-0A2342?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.lucastadaieski@gmail.com)](mailto:dev.lucastadaieski@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-black?style=for-the-badge)](https://lucastadaieski.github.io/portfolio/)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&color=blue)](https://www.linkedin.com/in/lucastadaieski/)
+[![Static Badge](https://img.shields.io/badge/gmail-red?style=for-the-badge)](mailto:dev.lucastadaieski@gmail.com)
 <br><br>
 
 ## About me
