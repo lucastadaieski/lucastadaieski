@@ -30,6 +30,13 @@
   />
   <img 
     align="left" 
+    alt="icon-python"  
+    width="36" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    style="padding-right: 1em;"
+  />
+  <img 
+    align="left" 
     alt="icon-mySQL" 
     width="36"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
