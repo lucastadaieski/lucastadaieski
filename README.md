@@ -78,6 +78,12 @@
   />
   <img 
     align="left" 
+    alt="icon-spring" 
+    width="36"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"   
+  />
+  <img 
+    align="left" 
     alt="icon-git" 
     width="36" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
