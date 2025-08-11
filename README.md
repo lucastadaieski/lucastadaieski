@@ -78,7 +78,7 @@
   />
   <img 
     align="left" 
-    alt="icon-spring" 
+    alt="icon-pandas" 
     width="36"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"   
   />
