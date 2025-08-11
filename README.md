@@ -13,7 +13,7 @@
   
 - 🎓 Software engineering undergraduate at @[UMC](https://www.umc.br/)
   
-- 📚 Learning about web development
+- 📚 Learning about web development and machine learning
   
 - ♟ I enjoy taking on challenges
 <br><br>
